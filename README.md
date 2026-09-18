@@ -1,7 +1,14 @@
 # caderno-tematico-notebook-lm
 Desafio de criação de um caderno no Notebook LM como parte do bootcamp Primeiros Passos em Power BI da DIO.
 
-Contexto e Objetivos: Inicie seu README explicando qual foi o assunto de interesse escolhido para o seu caderno temático e defina claramente quais são os seus objetivos de estudo com esse material.
+CONTEXTO:
+
+Recentemente, iniciei meus estudos sobre a linguagem de programação Python, pois tenho observado que muitas oportunidades de emprego no LinkedIn estão pedindo o Python como diferencial, isso quando não colocam como requisito obrigatório ter, pelo menos, conhecimentos básicos sobre programação.
+
+OBJETIVOS:
+
+Tendo em mente esse contexto, o meu objetivo para o meu caderno temático é criar uma persona Analista de Dados que seja especialista na linguagem Python, de maneira a me auxiliar em meus estudos sobre o tema e prover tutoria para as dúvidas que eu tiver durante o processo de aprendizagem.
+
 
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
 
