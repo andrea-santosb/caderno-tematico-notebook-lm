@@ -23,4 +23,5 @@ CURADORIA DE FONTES:
     https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2
 
 
+
 ENGENHARIA DE PROMPTS: Vide Miniguia de Estudo.
