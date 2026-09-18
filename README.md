@@ -11,11 +11,13 @@ Tendo em mente esse contexto, o meu objetivo para o meu caderno temático é cri
 
 CURADORIA DE FONTES:
 1.	Fontes de texto:
-- Arquivo em pdf do livro "Introdução à programação com Python", do autor Nilo Ney Coutinho Menezes.
-- Arquivo em pdf do livro "Python para Todos - Explorando Dados com Python 3", do autor Charles R. Severance
+- Arquivo em pdf do livro "Introdução à programação com Python", do autor Nilo Ney Coutinho Menezes (anexo).
+- Arquivo em pdf do livro "Python para Todos - Explorando Dados com Python 3", do autor Charles R. Severance (anexo).
 
 2.	Fontes de vídeo:
-
+https://www.youtube.com/watch?v=3J1xBL7zJXg
+https://www.youtube.com/watch?v=-VeVq64Fgw0
+https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2
 
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
 
