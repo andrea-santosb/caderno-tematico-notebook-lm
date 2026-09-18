@@ -9,6 +9,9 @@ OBJETIVOS:
 
 Tendo em mente esse contexto, o meu objetivo para o meu caderno temático é criar uma persona Analista de Dados que seja especialista na linguagem Python, de maneira a me auxiliar em meus estudos sobre o tema e prover tutoria para as dúvidas que eu tiver durante o processo de aprendizagem.
 
+CURADORIA DE FONTES:
+1.	Fontes de texto:
+- Arquivo em pdf do livro "Introdução à programação com Python", do autor Nilo Ney Coutinho Menezes.
 
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
 
