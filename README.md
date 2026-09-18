@@ -15,6 +15,7 @@ CURADORIA DE FONTES:
 - Arquivo em pdf do livro "Python para Todos - Explorando Dados com Python 3", do autor Charles R. Severance (anexo).
 
 2.	Fontes de vídeo:
+3.	
 https://www.youtube.com/watch?v=3J1xBL7zJXg
 
 https://www.youtube.com/watch?v=-VeVq64Fgw0
