@@ -16,11 +16,11 @@ CURADORIA DE FONTES:
 
 2.	Fontes de vídeo:
 
-https://www.youtube.com/watch?v=3J1xBL7zJXg
+  https://www.youtube.com/watch?v=3J1xBL7zJXg
 
-https://www.youtube.com/watch?v=-VeVq64Fgw0
+  https://www.youtube.com/watch?v=-VeVq64Fgw0
 
-https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2
+  https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2
 
 
 Curadoria de Fontes: Liste e disponibilize (ou insira os links) de 3 a 5 fontes abertas em texto ou PDF que você selecionou e fez o upload no NotebookLM.
